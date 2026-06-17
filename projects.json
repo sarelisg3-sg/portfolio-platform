@@ -1,0 +1,164 @@
+{
+  "projects": [
+    {
+      "id": "design-system",
+      "phase": 1,
+      "order": 1,
+      "title": "Design System Personal",
+      "status": "not-started",
+      "repo": null,
+      "deployment": null,
+      "kickoff_issue": null
+    },
+    {
+      "id": "portfolio-v1",
+      "phase": 1,
+      "order": 2,
+      "title": "Portfolio V1",
+      "status": "not-started",
+      "repo": null,
+      "deployment": null,
+      "kickoff_issue": null
+    },
+    {
+      "id": "landing-animaciones",
+      "phase": 1,
+      "order": 3,
+      "title": "Landing con Animaciones",
+      "status": "not-started",
+      "repo": null,
+      "deployment": null,
+      "kickoff_issue": null
+    },
+    {
+      "id": "rediseno-app",
+      "phase": 1,
+      "order": 4,
+      "title": "Rediseño de App Existente",
+      "status": "not-started",
+      "repo": null,
+      "deployment": null,
+      "kickoff_issue": null
+    },
+    {
+      "id": "dashboard-analytics",
+      "phase": 2,
+      "order": 5,
+      "title": "Dashboard de Analytics",
+      "status": "not-started",
+      "repo": null,
+      "deployment": null,
+      "kickoff_issue": null
+    },
+    {
+      "id": "ecommerce-ui",
+      "phase": 2,
+      "order": 6,
+      "title": "E-commerce UI",
+      "status": "not-started",
+      "repo": null,
+      "deployment": null,
+      "kickoff_issue": null
+    },
+    {
+      "id": "app-colaborativa",
+      "phase": 2,
+      "order": 7,
+      "title": "App Colaborativa en Tiempo Real",
+      "status": "not-started",
+      "repo": null,
+      "deployment": null,
+      "kickoff_issue": null
+    },
+    {
+      "id": "component-library",
+      "phase": 2,
+      "order": 8,
+      "title": "Component Library Pública (npm)",
+      "status": "not-started",
+      "repo": null,
+      "deployment": null,
+      "kickoff_issue": null
+    },
+    {
+      "id": "chat-ui-streaming",
+      "phase": 3,
+      "order": 9,
+      "title": "Chat UI con Streaming",
+      "status": "not-started",
+      "repo": null,
+      "deployment": null,
+      "kickoff_issue": null
+    },
+    {
+      "id": "ai-token-generator",
+      "phase": 3,
+      "order": 10,
+      "title": "AI Design Token Generator",
+      "status": "not-started",
+      "repo": null,
+      "deployment": null,
+      "kickoff_issue": null
+    },
+    {
+      "id": "ux-reviewer",
+      "phase": 3,
+      "order": 11,
+      "title": "UX Reviewer con AI",
+      "status": "not-started",
+      "repo": null,
+      "deployment": null,
+      "kickoff_issue": null
+    },
+    {
+      "id": "ai-copy-generator",
+      "phase": 3,
+      "order": 12,
+      "title": "AI Copy Generator para UI",
+      "status": "not-started",
+      "repo": null,
+      "deployment": null,
+      "kickoff_issue": null
+    },
+    {
+      "id": "portfolio-v2-ai",
+      "phase": 4,
+      "order": 13,
+      "title": "Portfolio V2 con AI",
+      "status": "not-started",
+      "repo": null,
+      "deployment": null,
+      "kickoff_issue": null
+    },
+    {
+      "id": "design-critique-saas",
+      "phase": 4,
+      "order": 14,
+      "title": "Design Critique Tool (SaaS)",
+      "status": "not-started",
+      "repo": null,
+      "deployment": null,
+      "kickoff_issue": null
+    },
+    {
+      "id": "ui-generator",
+      "phase": 4,
+      "order": 15,
+      "title": "UI Generator desde Prompts",
+      "status": "not-started",
+      "repo": null,
+      "deployment": null,
+      "kickoff_issue": null
+    },
+    {
+      "id": "ai-design-system-docs",
+      "phase": 4,
+      "order": 16,
+      "title": "AI Design System Docs",
+      "status": "not-started",
+      "repo": null,
+      "deployment": null,
+      "kickoff_issue": null
+    }
+  ]
+}

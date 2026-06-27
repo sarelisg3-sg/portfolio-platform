@@ -5,7 +5,8 @@
       "phase": 1,
       "order": 1,
       "title": "Design System Personal",
-      "status": "in-progress",
+      "status": "done",
+      "completed_at": "2026-06-27",
       "repo": "https://github.com/sarelisg3-sg/design-system",
       "deployment": "https://design-system-sare1.vercel.app",
       "kickoff_issue": "https://github.com/sarelisg3-sg/portfolio-platform/issues/2"

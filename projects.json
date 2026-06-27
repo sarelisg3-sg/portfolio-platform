@@ -5,10 +5,10 @@
       "phase": 1,
       "order": 1,
       "title": "Design System Personal",
-      "status": "not-started",
-      "repo": null,
-      "deployment": null,
-      "kickoff_issue": null
+      "status": "in-progress",
+      "repo": "https://github.com/sarelisg3-sg/design-system",
+      "deployment": "https://design-system-sare1.vercel.app",
+      "kickoff_issue": "https://github.com/sarelisg3-sg/portfolio-platform/issues/2"
     },
     {
       "id": "portfolio-v1",

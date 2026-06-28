@@ -16,10 +16,11 @@
       "phase": 1,
       "order": 2,
       "title": "Portfolio V1",
-      "status": "not-started",
-      "repo": null,
-      "deployment": null,
-      "kickoff_issue": null
+      "status": "in-progress",
+      "started_at": "2026-06-27",
+      "repo": "https://github.com/sarelisg3-sg/portfolio-v1",
+      "deployment": "https://portfolio-v1-zeta-liart.vercel.app",
+      "kickoff_issue": "https://github.com/sarelisg3-sg/portfolio-platform/issues/3"
     },
     {
       "id": "landing-animaciones",

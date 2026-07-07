@@ -66,5 +66,7 @@ Deploy automático a producción
 
 | Proyecto | Repo | Notas |
 |----------|------|-------|
-| le-point-du-fle-next | sarelisg3-sg/le-point-du-fle | Conversión HTML → Next.js desplegada. Pendiente migrar a GitHub-first deploy. |
+| le-point-du-fle | sarelisg3-sg/le-point-du-fle | Prototipo HTML completo y validado (búsqueda, filtros, preview, descarga). GitHub-first deploy activo. |
 | todo-app | — (local) | App mínima de referencia. No es un case study prioritario. |
+
+`le-point-du-fle-next` (reimplementación en Next.js, incompleta) fue eliminado el 2026-07-07 — solo tenía homepage y navegación por nivel; el prototipo HTML de arriba es el artefacto de referencia del case study.

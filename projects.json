@@ -16,11 +16,29 @@
       "phase": 1,
       "order": 2,
       "title": "Portfolio V1",
-      "status": "in-progress",
+      "status": "done",
       "started_at": "2026-06-27",
+      "completed_at": "2026-07-07",
       "repo": "https://github.com/sarelisg3-sg/portfolio-v1",
-      "deployment": "https://portfolio-v1-zeta-liart.vercel.app",
-      "kickoff_issue": "https://github.com/sarelisg3-sg/portfolio-platform/issues/3"
+      "deployment": "https://sarelisantiago.dev",
+      "kickoff_issue": "https://github.com/sarelisg3-sg/portfolio-platform/issues/3",
+      "case_studies": [
+        {
+          "id": "artium-online",
+          "title": "Artium Online"
+        },
+        {
+          "id": "le-point-du-fle",
+          "title": "Le Point du FLE",
+          "repo": "https://github.com/sarelisg3-sg/le-point-du-fle"
+        },
+        {
+          "id": "parkzone",
+          "title": "ParkZone",
+          "repo": "https://github.com/sarelisg3-sg/parkzone",
+          "deployment": "https://parkzone-rho.vercel.app"
+        }
+      ]
     },
     {
       "id": "landing-animaciones",
